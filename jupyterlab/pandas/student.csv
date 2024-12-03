@@ -1,0 +1,151 @@
+,Student ID,First Name,Last Name,Email Address,Major,Assignment Score (%),Exam Score (%),Total Score,Grade
+0,ST452584,Donald,Nelson,donald.nelson@student.ac.uk,App Development,40,57,50.2,2:2
+1,ST849740,Ryan,Harris,ryan.harris@student.ac.uk,Computer Science,62,88,77.6,1st
+2,ST099840,David,Snyder,david.snyder@student.ac.uk,Computer Science & AI,37,76,60.4,2:1
+3,ST181692,Nicole,Jensen,nicole.jensen@student.ac.uk,Cybersecurity,28,37,33.4,Fail
+4,ST374124,Amanda,Johnson,amanda.johnson@student.ac.uk,Software Engineer,40,40,40.0,3rd
+5,ST677577,Kelly,Williams,kelly.williams@student.ac.uk,Computer Science,1,41,25.0,Fail
+6,ST443172,Phillip,Nolan,phillip.nolan@student.ac.uk,DevOps Engineer,18,38,30.0,Fail
+7,ST613478,Ronald,Ray,ronald.ray@student.ac.uk,Computer Science,54,39,45.0,3rd
+8,ST612690,Sara,Rogers,sara.rogers@student.ac.uk,Computer Science & AI,96,56,72.0,1st
+9,ST303618,Dustin,Gilmore,dustin.gilmore@student.ac.uk,App Development,27,95,67.8,2:1
+10,ST179358,Dustin,Berg,dustin.berg@student.ac.uk,DevOps Engineer,17,14,15.2,Fail
+11,ST114391,Christine,Davies,christine.davies@student.ac.uk,Information Technology,28,5,14.2,Fail
+12,ST373671,Wayne,Sawyer,wayne.sawyer@student.ac.uk,Web Development,82,93,88.6,1st
+13,ST633129,Sheryl,Rodriguez,sheryl.rodriguez@student.ac.uk,Computer Science & AI,54,72,64.8,2:1
+14,ST726513,Ryan,Smith,ryan.smith@student.ac.uk,Cybersecurity,22,1,9.4,Fail
+15,ST199110,Sara,Patrick,sara.patrick@student.ac.uk,Computer Farensics,55,3,23.8,Fail
+16,ST321980,Timothy,Burnett,timothy.burnett@student.ac.uk,Computer Science,21,9,13.8,Fail
+17,ST500086,Stephanie,Dunn,stephanie.dunn@student.ac.uk,Computer Farensics,22,38,31.6,Fail
+18,ST099434,Bryan,Levine,bryan.levine@student.ac.uk,Computer Farensics,2,30,18.8,Fail
+19,ST672284,Michael,Hernandez,michael.hernandez@student.ac.uk,Computer Farensics,99,29,57.0,2:2
+20,ST114844,Janet,Anderson,janet.anderson@student.ac.uk,Web Development,54,40,45.6,3rd
+21,ST457665,Joanne,Richard,joanne.richard@student.ac.uk,Cybersecurity,1,16,10.0,Fail
+22,ST332448,Matthew,Dunn,matthew.dunn@student.ac.uk,Computer Farensics,66,96,84.0,1st
+23,ST589306,Brian,Hernandez,brian.hernandez@student.ac.uk,Software Engineer,88,20,47.2,3rd
+24,ST081860,Brian,Adams,brian.adams@student.ac.uk,Network Engineer,1,45,27.4,Fail
+25,ST093744,Erin,Stanley,erin.stanley@student.ac.uk,Information Technology,72,57,63.0,2:1
+26,ST247535,Christine,Rios,christine.rios@student.ac.uk,Computer Science & AI,7,70,44.8,3rd
+27,ST444010,Melanie,Norton,melanie.norton@student.ac.uk,App Development,45,94,74.4,1st
+28,ST850679,Brian,Gardner,brian.gardner@student.ac.uk,Web Development,68,77,73.4,1st
+29,ST422259,Jerry,Mccarty,jerry.mccarty@student.ac.uk,Software Engineer,36,96,72.0,1st
+30,ST745244,Ryan,Logan,ryan.logan@student.ac.uk,Software Engineer,90,50,66.0,2:1
+31,ST381678,Jennifer,Daniels,jennifer.daniels@student.ac.uk,Network Engineer,56,61,59.0,2:2
+32,ST374841,Heather,Lee,heather.lee@student.ac.uk,Computer Science & AI,12,41,29.4,Fail
+33,ST118936,Anthony,Baker,anthony.baker@student.ac.uk,Software Engineer,42,50,46.8,3rd
+34,ST806927,Jasmin,Webster,jasmin.webster@student.ac.uk,Web Development,92,84,87.2,1st
+35,ST624132,Jeremy,Keller,jeremy.keller@student.ac.uk,Computer Farensics,54,55,54.6,2:2
+36,ST932485,Steven,Hoffman,steven.hoffman@student.ac.uk,Computer Science & AI,75,99,89.4,1st
+37,ST178598,Natasha,Perry,natasha.perry@student.ac.uk,Web Development,61,8,29.2,Fail
+38,ST106019,Chloe,Watson,chloe.watson@student.ac.uk,Computer Farensics,75,77,76.2,1st
+39,ST711867,Shelby,Benjamin,shelby.benjamin@student.ac.uk,Network Engineer,6,39,25.8,Fail
+40,ST121553,David,Willis,david.willis@student.ac.uk,Computer Science,76,46,58.0,2:2
+41,ST982168,Eric,Mccormick,eric.mccormick@student.ac.uk,Information Technology,50,2,21.2,Fail
+42,ST180039,Christina,Myers,christina.myers@student.ac.uk,Network Engineer,48,86,70.8,1st
+43,ST782841,Kelly,Phillips,kelly.phillips@student.ac.uk,Web Development,70,19,39.4,Fail
+44,ST959122,Renee,Price,renee.price@student.ac.uk,DevOps Engineer,47,33,38.6,Fail
+45,ST081725,Krista,Fernandez,krista.fernandez@student.ac.uk,DevOps Engineer,53,64,59.6,2:2
+46,ST403712,Calvin,Wallace,calvin.wallace@student.ac.uk,Computer Farensics,32,78,59.6,2:2
+47,ST118994,Taylor,Key,taylor.key@student.ac.uk,App Development,12,33,24.6,Fail
+48,ST026109,Eric,Hernandez,eric.hernandez@student.ac.uk,Web Development,23,18,20.0,Fail
+49,ST897790,Brandon,Ray,brandon.ray@student.ac.uk,App Development,74,65,68.6,2:1
+50,ST697539,Glenda,Lang,glenda.lang@student.ac.uk,DevOps Engineer,45,20,30.0,Fail
+51,ST495138,Anita,Lee,anita.lee@student.ac.uk,Software Engineer,87,6,38.4,Fail
+52,ST425851,Andrew,Carney,andrew.carney@student.ac.uk,Network Engineer,36,3,16.2,Fail
+53,ST659076,Amy,Mccoy,amy.mccoy@student.ac.uk,Network Engineer,28,52,42.4,3rd
+54,ST102323,Jonathan,Jones,jonathan.jones@student.ac.uk,Computer Science,98,70,81.2,1st
+55,ST360819,Patricia,Schmidt,patricia.schmidt@student.ac.uk,App Development,50,34,40.4,3rd
+56,ST117761,Eddie,Atkinson,eddie.atkinson@student.ac.uk,Software Engineer,20,37,30.2,Fail
+57,ST468110,Teresa,Burnett,teresa.burnett@student.ac.uk,DevOps Engineer,35,8,18.8,Fail
+58,ST377626,James,Collins,james.collins@student.ac.uk,DevOps Engineer,5,66,41.6,3rd
+59,ST856947,Jennifer,Pope,jennifer.pope@student.ac.uk,Computer Science,72,53,60.6,2:1
+60,ST782480,Kenneth,Erickson,kenneth.erickson@student.ac.uk,Network Engineer,77,91,85.4,1st
+61,ST005921,Stephen,Conner,stephen.conner@student.ac.uk,Network Engineer,91,42,61.6,2:1
+62,ST863926,Andrew,Young,andrew.young@student.ac.uk,App Development,99,88,92.4,1st
+63,ST290225,Sherry,Keller,sherry.keller@student.ac.uk,App Development,79,1,32.2,Fail
+64,ST932723,Courtney,Diaz,courtney.diaz@student.ac.uk,Computer Science,95,38,60.8,2:1
+65,ST048806,Kathryn,Choi,kathryn.choi@student.ac.uk,App Development,6,83,52.2,2:2
+66,ST643011,April,Williams,april.williams@student.ac.uk,Computer Farensics,73,97,87.4,1st
+67,ST702723,Sandra,Martinez,sandra.martinez@student.ac.uk,Computer Science & AI,16,73,50.2,2:2
+68,ST905521,Tiffany,Baker,tiffany.baker@student.ac.uk,Network Engineer,57,19,34.2,Fail
+69,ST103857,Christina,Anderson,christina.anderson@student.ac.uk,Web Development,70,28,44.8,3rd
+70,ST070186,Paul,Tyler,paul.tyler@student.ac.uk,DevOps Engineer,8,8,8.0,Fail
+71,ST926263,Alicia,Cohen,alicia.cohen@student.ac.uk,Computer Science & AI,25,32,29.2,Fail
+72,ST545430,Aimee,Jones,aimee.jones@student.ac.uk,Information Technology,58,37,45.4,3rd
+73,ST756583,Jennifer,Rodriguez,jennifer.rodriguez@student.ac.uk,Computer Farensics,96,3,40.2,3rd
+74,ST817125,Ashley,Rose,ashley.rose@student.ac.uk,App Development,3,51,31.8,Fail
+75,ST264850,Debra,Woods,debra.woods@student.ac.uk,Network Engineer,86,9,39.8,Fail
+76,ST838952,Nicole,Erickson,nicole.erickson@student.ac.uk,Computer Science,95,53,69.8,2:1
+77,ST526187,Ian,Simmons,ian.simmons@student.ac.uk,Computer Science,2,53,32.6,Fail
+78,ST937671,Katelyn,Cannon,katelyn.cannon@student.ac.uk,Computer Science & AI,59,50,53.6,2:2
+79,ST449930,Sarah,Hendricks,sarah.hendricks@student.ac.uk,Network Engineer,65,51,56.6,2:2
+80,ST941770,William,Nunez,william.nunez@student.ac.uk,Cybersecurity,31,44,38.8,Fail
+81,ST080191,David,Thomas,david.thomas@student.ac.uk,Computer Science,41,83,66.2,2:1
+82,ST043721,Tanner,Mckenzie,tanner.mckenzie@student.ac.uk,Computer Farensics,89,68,76.4,1st
+83,ST896798,Ashley,Moore,ashley.moore@student.ac.uk,Information Technology,43,21,29.8,Fail
+84,ST393585,Lisa,Young,lisa.young@student.ac.uk,Software Engineer,53,12,28.4,Fail
+85,ST655953,John,Evans,john.evans@student.ac.uk,Network Engineer,56,13,30.2,Fail
+86,ST977815,James,Smith,james.smith@student.ac.uk,Cybersecurity,4,63,39.4,Fail
+87,ST781807,Holly,Dennis,holly.dennis@student.ac.uk,Computer Science & AI,48,46,46.8,3rd
+88,ST584804,David,Turner,david.turner@student.ac.uk,Computer Science & AI,56,8,27.2,Fail
+89,ST413011,Gabriel,Taylor,gabriel.taylor@student.ac.uk,DevOps Engineer,14,37,27.8,Fail
+90,ST865017,Zachary,White,zachary.white@student.ac.uk,Computer Science & AI,96,79,85.8,1st
+91,ST447740,Miguel,Downs,miguel.downs@student.ac.uk,Information Technology,99,52,70.8,1st
+92,ST285206,Courtney,Banks,courtney.banks@student.ac.uk,DevOps Engineer,82,38,55.6,2:2
+93,ST468060,Danielle,Howard,danielle.howard@student.ac.uk,Software Engineer,65,87,78.2,1st
+94,ST408441,Barry,Pittman,barry.pittman@student.ac.uk,App Development,15,48,34.8,Fail
+95,ST717364,Julie,Guzman,julie.guzman@student.ac.uk,Information Technology,65,62,63.2,2:1
+96,ST601620,Andrew,Aguilar,andrew.aguilar@student.ac.uk,DevOps Engineer,36,22,27.6,Fail
+97,ST588465,Ricky,Friedman,ricky.friedman@student.ac.uk,Computer Science & AI,7,62,40.0,3rd
+98,ST807398,Kelly,Allen,kelly.allen@student.ac.uk,App Development,46,74,62.8,2:1
+99,ST743198,Brandon,Garcia,brandon.garcia@student.ac.uk,Network Engineer,98,33,59.0,2:2
+100,ST599115,Jennifer,Grant,jennifer.grant@student.ac.uk,Computer Farensics,77,99,90.2,1st
+101,ST505274,Richard,Franklin,richard.franklin@student.ac.uk,Computer Science & AI,90,49,65.4,2:1
+102,ST484848,Kevin,Williams,kevin.williams@student.ac.uk,Web Development,37,91,69.4,2:1
+103,ST164348,Valerie,Camacho,valerie.camacho@student.ac.uk,Computer Farensics,86,3,36.2,Fail
+104,ST086715,Jennifer,Joseph,jennifer.joseph@student.ac.uk,Cybersecurity,25,9,15.4,Fail
+105,ST382848,Sharon,Fitzgerald,sharon.fitzgerald@student.ac.uk,Cybersecurity,46,15,27.4,Fail
+106,ST646645,Luis,Walker,luis.walker@student.ac.uk,Information Technology,5,17,12.2,Fail
+107,ST768984,Amy,Edwards,amy.edwards@student.ac.uk,DevOps Engineer,50,38,42.8,3rd
+108,ST329197,Dylan,Bowman,dylan.bowman@student.ac.uk,Network Engineer,77,72,74.0,1st
+109,ST826065,Linda,Marsh,linda.marsh@student.ac.uk,Cybersecurity,64,40,49.6,3rd
+110,ST919719,Lisa,Hurley,lisa.hurley@student.ac.uk,Information Technology,58,91,77.8,1st
+111,ST600978,Rebecca,Burns,rebecca.burns@student.ac.uk,Computer Science & AI,69,73,71.4,1st
+112,ST537747,Mike,Morales,mike.morales@student.ac.uk,Web Development,18,60,43.2,3rd
+113,ST772402,Gerald,Johnson,gerald.johnson@student.ac.uk,Web Development,10,6,7.6,Fail
+114,ST150321,Taylor,Nelson,taylor.nelson@student.ac.uk,Information Technology,37,34,35.2,Fail
+115,ST890052,Cynthia,Johnston,cynthia.johnston@student.ac.uk,Information Technology,84,42,58.8,2:2
+116,ST224109,Ricky,Turner,ricky.turner@student.ac.uk,Web Development,31,20,24.4,Fail
+117,ST363832,Shelly,Smith,shelly.smith@student.ac.uk,Computer Science,4,34,22.0,Fail
+118,ST871234,Lisa,Wood,lisa.wood@student.ac.uk,Computer Science,3,50,31.2,Fail
+119,ST090765,Kristi,Coleman,kristi.coleman@student.ac.uk,Software Engineer,77,40,54.8,2:2
+120,ST055588,Randy,Sherman,randy.sherman@student.ac.uk,Software Engineer,34,39,37.0,Fail
+121,ST681385,Felicia,Floyd,felicia.floyd@student.ac.uk,Software Engineer,48,65,58.2,2:2
+122,ST243093,Mark,Sanders,mark.sanders@student.ac.uk,Cybersecurity,10,8,8.8,Fail
+123,ST831622,Curtis,Larson,curtis.larson@student.ac.uk,Software Engineer,42,65,55.8,2:2
+124,ST033785,Cheryl,Moore,cheryl.moore@student.ac.uk,Computer Science,39,82,64.8,2:1
+125,ST100404,Grace,Parks,grace.parks@student.ac.uk,DevOps Engineer,82,19,44.2,3rd
+126,ST602206,Kimberly,Branch,kimberly.branch@student.ac.uk,Software Engineer,82,12,40.0,3rd
+127,ST374650,Andrew,Sanchez,andrew.sanchez@student.ac.uk,App Development,90,75,81.0,1st
+128,ST931163,Dean,West,dean.west@student.ac.uk,Network Engineer,29,66,51.2,2:2
+129,ST293892,Donna,Nelson,donna.nelson@student.ac.uk,Computer Farensics,3,14,9.6,Fail
+130,ST823988,Lori,Hernandez,lori.hernandez@student.ac.uk,Software Engineer,15,17,16.2,Fail
+131,ST988179,Danielle,Phillips,danielle.phillips@student.ac.uk,Network Engineer,47,37,41.0,3rd
+132,ST172980,Sara,Howard,sara.howard@student.ac.uk,Cybersecurity,8,36,24.8,Fail
+133,ST608986,Matthew,Reilly,matthew.reilly@student.ac.uk,Web Development,78,75,76.2,1st
+134,ST390688,Shirley,Hawkins,shirley.hawkins@student.ac.uk,Information Technology,49,7,23.8,Fail
+135,ST779817,Mark,Anderson,mark.anderson@student.ac.uk,Computer Science & AI,53,27,37.4,Fail
+136,ST501517,David,Woods,david.woods@student.ac.uk,Software Engineer,70,67,68.2,2:1
+137,ST420267,Allen,Goodwin,allen.goodwin@student.ac.uk,Computer Farensics,15,39,29.4,Fail
+138,ST288612,Dana,Lewis,dana.lewis@student.ac.uk,Computer Science & AI,96,89,91.8,1st
+139,ST478577,Jeffrey,Johnson,jeffrey.johnson@student.ac.uk,Network Engineer,45,35,39.0,Fail
+140,ST084774,Mary,Zuniga,mary.zuniga@student.ac.uk,Computer Farensics,83,60,69.2,2:1
+141,ST560459,David,Fischer,david.fischer@student.ac.uk,Information Technology,4,82,50.8,2:2
+142,ST783710,Mark,Moore,mark.moore@student.ac.uk,Web Development,34,46,41.2,3rd
+143,ST951598,Jennifer,Shaw,jennifer.shaw@student.ac.uk,DevOps Engineer,87,94,91.2,1st
+144,ST089185,Jessica,Smith,jessica.smith@student.ac.uk,Web Development,35,75,59.0,2:2
+145,ST079735,Scott,Green,scott.green@student.ac.uk,Computer Science & AI,80,62,69.2,2:1
+146,ST196689,George,Wilson,george.wilson@student.ac.uk,Computer Science,4,11,8.2,Fail
+147,ST257392,Russell,Lawson,russell.lawson@student.ac.uk,Computer Farensics,16,65,45.4,3rd
+148,ST881075,Jeanette,Moore,jeanette.moore@student.ac.uk,Information Technology,45,12,25.2,Fail
+149,ST123627,Samuel,Villa,samuel.villa@student.ac.uk,DevOps Engineer,66,87,78.6,1st

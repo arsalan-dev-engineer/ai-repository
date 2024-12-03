@@ -1,0 +1,151 @@
+,Customer Id,First Name,Last Name,Email Address,Order Date,Product Type,Product ID,Product Price (Per Item),Product Quantity,Total Cost,Discount (%),Discounted Price (Per Item),Final Price,Order Status
+0,940022,James,Howard,james.howard@customer.com,2002-02-27,Software & Games,11158,635.32,9,5717.88,22,495.55,4459.95,Out For Delivery
+1,946912,Austin,Glenn,austin.glenn@customer.com,2014-03-25,Books & Stationery,31544,157.64,7,1103.48,23,121.38,849.66,Shipped
+2,875845,Colin,Watson,colin.watson@customer.com,2005-08-30,Electronics,35754,184.95,7,1294.65,35,120.22,841.54,Delivered
+3,952587,Jeffery,Williams,jeffery.williams@customer.com,2013-05-12,Sports & Outdoors,23561,595.93,8,4767.44,0,595.93,4767.44,Shipped
+4,884622,Joshua,Bryant,joshua.bryant@customer.com,2020-03-22,Toys & Games,94075,201.80,8,1614.40,35,131.17,1049.36,Delivered
+5,602264,Wendy,Morris,wendy.morris@customer.com,2013-12-29,Home Appliances,21460,58.73,5,293.65,32,39.94,199.7,Delivered
+6,609376,Timothy,Barnett,timothy.barnett@customer.com,2024-03-22,Books & Stationery,52336,83.18,8,665.44,11,74.03,592.24,Shipped
+7,776172,Dennis,Edwards,dennis.edwards@customer.com,2003-07-29,Electronics,50917,601.16,9,5410.44,11,535.03,4815.27,Delivered
+8,99459,Paul,Hudson,paul.hudson@customer.com,2000-12-20,Software & Games,86571,170.04,3,510.12,30,119.03,357.09,Shipped
+9,875145,John,Moore,john.moore@customer.com,2024-05-04,Baby Products,55371,412.50,9,3712.50,34,272.25,2450.25,Shipped
+10,518049,Colleen,Collins,colleen.collins@customer.com,2006-12-27,Software & Games,44331,70.17,3,210.51,2,68.77,206.31,Out For Delivery
+11,479629,Sandra,Hall,sandra.hall@customer.com,2016-06-02,Home Appliances,48610,338.81,8,2710.48,18,277.82,2222.56,Shipping Soon
+12,403255,James,Dawson,james.dawson@customer.com,2019-04-10,Toys & Games,80403,448.47,1,448.47,26,331.87,331.87,Delivered
+13,469685,Nathan,Sanders,nathan.sanders@customer.com,2022-10-14,Clothing & Appeal,5487,639.85,5,3199.25,28,460.69,2303.45,Delivered
+14,408630,Angel,Sharp,angel.sharp@customer.com,2018-12-05,Toys & Games,45200,151.89,9,1367.01,15,129.11,1161.99,Out For Delivery
+15,822545,Brian,Walter,brian.walter@customer.com,2019-06-17,Software & Games,76120,312.82,8,2502.56,6,294.05,2352.4,Shipping Soon
+16,431134,Sonia,Carrillo,sonia.carrillo@customer.com,2022-08-23,Office Supplies,93766,134.02,5,670.10,16,112.58,562.9,Delivered
+17,184105,Steve,Hubbard,steve.hubbard@customer.com,2011-04-29,Sports & Outdoors,98182,92.71,1,92.71,14,79.73,79.73,Shipped
+18,714338,Stephanie,Allen,stephanie.allen@customer.com,2011-04-25,Clothing & Appeal,15872,129.14,1,129.14,23,99.44,99.44,Shipped
+19,713021,Brianna,Dominguez,brianna.dominguez@customer.com,2007-10-09,Baby Products,1068,515.38,4,2061.52,34,340.15,1360.6,Shipped
+20,914378,Michelle,Johnson,michelle.johnson@customer.com,2007-01-06,Software & Games,4994,539.87,2,1079.74,29,383.31,766.62,Delivered
+21,872656,Samantha,Douglas,samantha.douglas@customer.com,2017-07-06,Software & Games,53460,5.57,9,50.13,0,5.57,50.13,Shipped
+22,420197,Adam,Torres,adam.torres@customer.com,2011-09-29,Toys & Games,74051,41.19,10,411.90,9,37.48,374.8,Delivered
+23,737823,Brandon,Mitchell,brandon.mitchell@customer.com,2002-07-31,Clothing & Appeal,49251,143.55,1,143.55,14,123.45,123.45,Delivered
+24,157778,Travis,Miller,travis.miller@customer.com,2024-07-17,Sports & Outdoors,32417,75.71,7,529.97,23,58.3,408.1,Shipped
+25,173493,Jeffrey,Duke,jeffrey.duke@customer.com,2019-07-12,Office Supplies,88870,336.88,1,336.88,7,313.3,313.3,Out For Delivery
+26,806666,David,Deleon,david.deleon@customer.com,2019-08-22,Electronics,87518,359.45,10,3594.50,11,319.91,3199.1,Shipping Soon
+27,993366,Jessica,Lee,jessica.lee@customer.com,2002-05-27,Baby Products,18141,697.60,3,2092.80,23,537.15,1611.45,Shipping Soon
+28,547945,Amber,Lyons,amber.lyons@customer.com,2013-06-26,Books & Stationery,39373,69.88,7,489.16,16,58.7,410.9,Delivered
+29,409408,Thomas,Wheeler,thomas.wheeler@customer.com,2012-10-16,Books & Stationery,8275,342.77,4,1371.08,7,318.78,1275.12,Out For Delivery
+30,837539,Joseph,Ramirez,joseph.ramirez@customer.com,2024-11-07,Software & Games,48969,435.28,6,2611.68,14,374.34,2246.04,Shipping Soon
+31,35961,Craig,Snyder,craig.snyder@customer.com,2013-02-13,Home Appliances,22607,659.88,8,5279.04,20,527.9,4223.2,Delivered
+32,746164,Matthew,Pugh,matthew.pugh@customer.com,2022-12-12,Baby Products,93506,383.97,3,1151.91,25,287.98,863.94,Shipping Soon
+33,787381,Jonathan,Hawkins,jonathan.hawkins@customer.com,2014-01-11,Baby Products,89733,359.51,10,3595.10,26,266.04,2660.4,Shipping Soon
+34,329432,Preston,Garcia,preston.garcia@customer.com,2007-10-18,Books & Stationery,61316,458.80,7,3211.60,17,380.8,2665.6,Out For Delivery
+35,58086,Margaret,Smith,margaret.smith@customer.com,2020-02-25,Toys & Games,99700,216.58,5,1082.90,15,184.09,920.45,Shipped
+36,530731,James,Maldonado,james.maldonado@customer.com,2017-08-03,Sports & Outdoors,82548,395.74,1,395.74,3,383.87,383.87,Shipping Soon
+37,394996,Michael,Walton,michael.walton@customer.com,2021-02-20,Software & Games,67076,135.46,8,1083.68,4,130.04,1040.32,Out For Delivery
+38,815356,Dawn,Garcia,dawn.garcia@customer.com,2006-11-16,Office Supplies,76632,169.00,10,1690.00,18,138.58,1385.8,Delivered
+39,479307,Patrick,Rosales,patrick.rosales@customer.com,2011-03-11,Electronics,48324,96.05,9,864.45,34,63.39,570.51,Out For Delivery
+40,563686,Jacqueline,Baker,jacqueline.baker@customer.com,2001-05-16,Sports & Outdoors,7064,296.73,9,2670.57,31,204.74,1842.66,Shipping Soon
+41,361609,Frank,Mathews,frank.mathews@customer.com,2018-01-10,Electronics,1790,503.15,4,2012.60,4,483.02,1932.08,Delivered
+42,873295,Victoria,Mitchell,victoria.mitchell@customer.com,2019-10-08,Sports & Outdoors,48941,438.26,8,3506.08,9,398.82,3190.56,Delivered
+43,992009,Natasha,Reid,natasha.reid@customer.com,2015-04-26,Home Appliances,96499,279.55,9,2515.95,15,237.62,2138.58,Out For Delivery
+44,392749,Sara,Callahan,sara.callahan@customer.com,2004-04-14,Baby Products,13762,312.72,10,3127.20,7,290.83,2908.3,Shipping Soon
+45,340862,Nathaniel,Fletcher,nathaniel.fletcher@customer.com,2003-12-10,Baby Products,55341,69.05,8,552.40,23,53.17,425.36,Shipping Soon
+46,21402,Rebecca,Torres,rebecca.torres@customer.com,2014-03-29,Books & Stationery,25902,12.69,5,63.45,28,9.14,45.7,Out For Delivery
+47,853547,Brandon,Barton,brandon.barton@customer.com,2019-10-30,Clothing & Appeal,96897,264.79,2,529.58,35,172.11,344.22,Shipping Soon
+48,287309,Meghan,Gonzalez,meghan.gonzalez@customer.com,2024-08-18,Office Supplies,29839,668.93,7,4682.51,17,555.21,3886.47,Shipped
+49,577055,Dillon,Carroll,dillon.carroll@customer.com,2005-02-20,Sports & Outdoors,73758,483.82,5,2419.10,10,435.44,2177.2,Delivered
+50,246761,Anna,George,anna.george@customer.com,2017-08-11,Electronics,81987,477.62,5,2388.10,6,448.96,2244.8,Out For Delivery
+51,206346,Madison,Taylor,madison.taylor@customer.com,2005-03-15,Home Appliances,12612,127.03,9,1143.27,6,119.41,1074.69,Shipped
+52,401381,Sabrina,Morgan,sabrina.morgan@customer.com,2007-09-16,Software & Games,96727,473.49,2,946.98,26,350.38,700.76,Shipped
+53,729129,Alyssa,Harris,alyssa.harris@customer.com,2014-12-11,Books & Stationery,27867,429.49,5,2147.45,8,395.13,1975.65,Shipping Soon
+54,797241,Glenn,Jones,glenn.jones@customer.com,2007-11-18,Home Appliances,6290,346.22,1,346.22,29,245.82,245.82,Delivered
+55,163586,Francisco,Kerr,francisco.kerr@customer.com,2002-08-09,Health & Beauty,46844,229.05,4,916.20,13,199.27,797.08,Shipping Soon
+56,484425,Jessica,Brown,jessica.brown@customer.com,2004-08-23,Baby Products,33906,186.82,7,1307.74,14,160.67,1124.69,Shipping Soon
+57,742734,Sabrina,Dixon,sabrina.dixon@customer.com,2009-12-26,Software & Games,47288,370.88,10,3708.80,16,311.54,3115.4,Out For Delivery
+58,220980,Curtis,Berger,curtis.berger@customer.com,2016-05-12,Books & Stationery,45834,55.60,6,333.60,23,42.81,256.86,Shipping Soon
+59,255429,Dean,Martin,dean.martin@customer.com,2008-06-22,Electronics,55341,514.00,6,3084.00,3,498.58,2991.48,Shipped
+60,67115,John,Norman,john.norman@customer.com,2012-01-22,Office Supplies,60539,81.93,3,245.79,6,77.01,231.03,Shipping Soon
+61,172115,Randy,Lee,randy.lee@customer.com,2003-01-27,Health & Beauty,61874,594.11,5,2970.55,7,552.52,2762.6,Delivered
+62,965616,Nicholas,Rodriguez,nicholas.rodriguez@customer.com,2024-06-18,Office Supplies,75229,582.10,10,5821.00,25,436.58,4365.8,Out For Delivery
+63,367713,Michael,Myers,michael.myers@customer.com,2007-08-22,Sports & Outdoors,99671,27.35,8,218.80,27,19.97,159.76,Shipped
+64,889674,Amanda,Baldwin,amanda.baldwin@customer.com,2000-06-24,Books & Stationery,40405,593.74,10,5937.40,13,516.55,5165.5,Delivered
+65,32853,Timothy,Moore,timothy.moore@customer.com,2013-11-17,Clothing & Appeal,5155,572.17,1,572.17,26,423.41,423.41,Out For Delivery
+66,698592,Ryan,Hunt,ryan.hunt@customer.com,2011-10-30,Office Supplies,6779,88.31,9,794.79,25,66.23,596.07,Delivered
+67,181399,Pamela,Morton,pamela.morton@customer.com,2003-08-19,Toys & Games,83160,300.18,3,900.54,13,261.16,783.48,Shipping Soon
+68,711753,Ashley,Foley,ashley.foley@customer.com,2014-06-06,Clothing & Appeal,94305,52.18,9,469.62,4,50.09,450.81,Delivered
+69,189001,Seth,Blake,seth.blake@customer.com,2001-11-24,Baby Products,47435,329.99,3,989.97,22,257.39,772.17,Out For Delivery
+70,720502,Micheal,Richards,micheal.richards@customer.com,2000-02-04,Sports & Outdoors,90425,32.57,7,227.99,10,29.31,205.17,Out For Delivery
+71,908306,Matthew,Martinez,matthew.martinez@customer.com,2003-08-12,Toys & Games,44908,659.90,4,2639.60,1,653.3,2613.2,Out For Delivery
+72,767691,Eric,Kim,eric.kim@customer.com,2007-12-31,Software & Games,73471,603.08,2,1206.16,29,428.19,856.38,Delivered
+73,869906,Brandon,Turner,brandon.turner@customer.com,2003-01-30,Books & Stationery,3730,500.37,1,500.37,8,460.34,460.34,Shipped
+74,279710,Andre,Brown,andre.brown@customer.com,2014-12-24,Clothing & Appeal,85571,64.70,8,517.60,32,44.0,352.0,Shipped
+75,265662,Eric,Greer,eric.greer@customer.com,2003-04-27,Office Supplies,63286,516.58,5,2582.90,19,418.43,2092.15,Delivered
+76,240693,Brian,Martinez,brian.martinez@customer.com,2010-11-02,Electronics,9536,114.12,5,570.60,0,114.12,570.6,Out For Delivery
+77,749051,Shannon,Hahn,shannon.hahn@customer.com,2018-01-18,Office Supplies,20480,96.60,8,772.80,18,79.21,633.68,Delivered
+78,636211,Melissa,Williams,melissa.williams@customer.com,2002-05-15,Health & Beauty,39693,175.10,6,1050.60,7,162.84,977.04,Shipped
+79,677513,Sydney,Parks,sydney.parks@customer.com,2007-05-22,Home Appliances,60381,321.01,7,2247.07,19,260.02,1820.14,Shipping Soon
+80,872168,Lindsey,Duncan,lindsey.duncan@customer.com,2003-03-08,Software & Games,32489,206.58,10,2065.80,15,175.59,1755.9,Delivered
+81,828161,Barry,Gould,barry.gould@customer.com,2002-05-29,Clothing & Appeal,72486,184.31,6,1105.86,13,160.35,962.1,Shipping Soon
+82,686965,Connor,Boyd,connor.boyd@customer.com,2011-01-06,Toys & Games,11464,435.02,8,3480.16,34,287.11,2296.88,Out For Delivery
+83,928463,Garrett,Mathis,garrett.mathis@customer.com,2017-03-23,Sports & Outdoors,60501,231.47,4,925.88,2,226.84,907.36,Out For Delivery
+84,934265,Chad,Taylor,chad.taylor@customer.com,2017-03-30,Electronics,14705,241.83,9,2176.47,16,203.14,1828.26,Shipped
+85,166047,David,Murphy,david.murphy@customer.com,2004-11-26,Office Supplies,37478,181.88,6,1091.28,30,127.32,763.92,Delivered
+86,392478,Mark,Mathews,mark.mathews@customer.com,2002-04-09,Software & Games,27628,505.42,6,3032.52,19,409.39,2456.34,Shipping Soon
+87,439597,Scott,Alvarado,scott.alvarado@customer.com,2016-01-08,Clothing & Appeal,45458,401.41,3,1204.23,27,293.03,879.09,Delivered
+88,561172,Tammy,Wong,tammy.wong@customer.com,2021-11-07,Health & Beauty,3817,35.90,6,215.40,13,31.23,187.38,Shipping Soon
+89,96084,Lindsey,Bright,lindsey.bright@customer.com,2002-09-21,Electronics,51595,128.00,7,896.00,9,116.48,815.36,Shipped
+90,458469,Ruth,Ortega,ruth.ortega@customer.com,2014-04-15,Health & Beauty,54052,550.83,9,4957.47,8,506.76,4560.84,Delivered
+91,154037,Vanessa,Chapman,vanessa.chapman@customer.com,2021-07-07,Baby Products,24066,625.48,5,3127.40,17,519.15,2595.75,Delivered
+92,614,Darrell,Moore,darrell.moore@customer.com,2017-01-12,Toys & Games,62768,82.95,3,248.85,19,67.19,201.57,Out For Delivery
+93,6199,Gloria,Henderson,gloria.henderson@customer.com,2018-07-24,Electronics,97906,75.24,6,451.44,16,63.2,379.2,Out For Delivery
+94,633019,Susan,Phillips,susan.phillips@customer.com,2003-11-06,Clothing & Appeal,25301,438.71,7,3070.97,25,329.03,2303.21,Delivered
+95,160484,Matthew,Bridges,matthew.bridges@customer.com,2024-07-18,Office Supplies,79704,641.93,7,4493.51,30,449.35,3145.45,Shipped
+96,560126,Joshua,Mullins,joshua.mullins@customer.com,2005-08-25,Office Supplies,70964,181.29,4,725.16,30,126.9,507.6,Shipped
+97,42906,Tracy,Reid,tracy.reid@customer.com,2008-10-19,Books & Stationery,72422,692.25,6,4153.50,32,470.73,2824.38,Shipped
+98,663668,Michael,Gallagher,michael.gallagher@customer.com,2007-07-12,Books & Stationery,66105,543.31,5,2716.55,4,521.58,2607.9,Shipping Soon
+99,808663,Suzanne,Rivera,suzanne.rivera@customer.com,2017-03-11,Office Supplies,97357,563.61,2,1127.22,29,400.16,800.32,Delivered
+100,739938,Stephanie,Oconnell,stephanie.oconnell@customer.com,2005-09-19,Health & Beauty,8813,582.19,4,2328.76,21,459.93,1839.72,Shipped
+101,465301,Dana,Marsh,dana.marsh@customer.com,2010-01-03,Software & Games,50261,533.24,4,2132.96,8,490.58,1962.32,Delivered
+102,862466,Charles,Jimenez,charles.jimenez@customer.com,2008-04-27,Health & Beauty,50681,46.53,3,139.59,8,42.81,128.43,Out For Delivery
+103,100251,Karen,Carroll,karen.carroll@customer.com,2005-07-29,Software & Games,91388,285.07,4,1140.28,9,259.41,1037.64,Shipping Soon
+104,696831,Mark,Hancock,mark.hancock@customer.com,2004-06-29,Sports & Outdoors,66275,510.18,1,510.18,6,479.57,479.57,Delivered
+105,54670,Sean,Gardner,sean.gardner@customer.com,2020-03-15,Health & Beauty,51942,526.80,7,3687.60,25,395.1,2765.7,Shipped
+106,972964,Benjamin,Burke,benjamin.burke@customer.com,2024-08-14,Electronics,87394,493.71,10,4937.10,5,469.02,4690.2,Out For Delivery
+107,892525,Courtney,Lewis,courtney.lewis@customer.com,2014-09-27,Electronics,22140,212.21,6,1273.26,16,178.26,1069.56,Shipped
+108,668616,Paul,Vega,paul.vega@customer.com,2014-05-04,Electronics,81223,124.66,7,872.62,18,102.22,715.54,Delivered
+109,627051,Daniel,Medina,daniel.medina@customer.com,2020-10-30,Software & Games,76286,453.40,2,906.80,24,344.58,689.16,Delivered
+110,767098,Jill,Stevens,jill.stevens@customer.com,2007-01-08,Books & Stationery,16943,373.96,5,1869.80,30,261.77,1308.85,Out For Delivery
+111,479325,Paul,Lee,paul.lee@customer.com,2007-07-20,Books & Stationery,72362,546.06,4,2184.24,13,475.07,1900.28,Shipped
+112,148721,Jennifer,Finley,jennifer.finley@customer.com,2023-02-21,Toys & Games,80419,305.32,9,2747.88,26,225.94,2033.46,Shipped
+113,658559,Ryan,Bryant,ryan.bryant@customer.com,2023-03-14,Health & Beauty,41233,329.12,6,1974.72,0,329.12,1974.72,Delivered
+114,349483,Gregory,Davis,gregory.davis@customer.com,2015-03-11,Electronics,88081,683.85,5,3419.25,27,499.21,2496.05,Shipping Soon
+115,482472,Bryan,Fuentes,bryan.fuentes@customer.com,2014-05-28,Baby Products,1285,30.56,3,91.68,34,20.17,60.51,Shipping Soon
+116,329079,Ethan,Foster,ethan.foster@customer.com,2020-01-28,Office Supplies,38365,15.95,8,127.60,17,13.24,105.92,Shipped
+117,481509,Thomas,Murray,thomas.murray@customer.com,2005-09-27,Sports & Outdoors,53625,394.38,5,1971.90,2,386.49,1932.45,Shipping Soon
+118,619744,Joshua,Pollard,joshua.pollard@customer.com,2004-03-08,Sports & Outdoors,64549,579.42,5,2897.10,33,388.21,1941.05,Delivered
+119,261091,Barbara,Khan,barbara.khan@customer.com,2003-08-26,Baby Products,97219,638.38,1,638.38,16,536.24,536.24,Shipped
+120,633011,Tamara,Flores,tamara.flores@customer.com,2005-05-05,Electronics,40986,203.54,2,407.08,23,156.73,313.46,Shipping Soon
+121,728135,Michele,Hernandez,michele.hernandez@customer.com,2005-11-02,Health & Beauty,80726,235.48,10,2354.80,17,195.45,1954.5,Delivered
+122,952545,Jose,Bishop,jose.bishop@customer.com,2004-08-09,Software & Games,79984,656.58,6,3939.48,23,505.57,3033.42,Out For Delivery
+123,33081,Nicole,Cardenas,nicole.cardenas@customer.com,2006-05-24,Electronics,48791,653.84,7,4576.88,0,653.84,4576.88,Shipped
+124,468321,Jason,Davis,jason.davis@customer.com,2023-11-20,Office Supplies,98246,127.60,6,765.60,21,100.8,604.8,Out For Delivery
+125,952333,Devin,Costa,devin.costa@customer.com,2019-10-21,Toys & Games,46982,106.80,10,1068.00,28,76.9,769.0,Shipping Soon
+126,153452,Melissa,Hernandez,melissa.hernandez@customer.com,2023-10-10,Home Appliances,95400,369.09,5,1845.45,8,339.56,1697.8,Shipping Soon
+127,632514,Bobby,Savage,bobby.savage@customer.com,2012-07-31,Clothing & Appeal,56006,243.70,2,487.40,7,226.64,453.28,Shipped
+128,369463,Caleb,Quinn,caleb.quinn@customer.com,2012-11-18,Electronics,54028,674.12,6,4044.72,16,566.26,3397.56,Shipping Soon
+129,895683,Travis,Jimenez,travis.jimenez@customer.com,2001-08-09,Software & Games,21399,222.13,10,2221.30,33,148.83,1488.3,Shipping Soon
+130,312857,Robert,Harris,robert.harris@customer.com,2019-12-24,Books & Stationery,56303,67.37,9,606.33,13,58.61,527.49,Delivered
+131,743349,Phillip,Clark,phillip.clark@customer.com,2004-08-08,Office Supplies,91948,570.07,9,5130.63,35,370.55,3334.95,Delivered
+132,923810,Nathan,Smith,nathan.smith@customer.com,2020-12-20,Sports & Outdoors,73957,86.99,9,782.91,25,65.24,587.16,Out For Delivery
+133,909953,Carrie,Walker,carrie.walker@customer.com,2005-03-18,Office Supplies,42409,441.99,10,4419.90,13,384.53,3845.3,Out For Delivery
+134,285498,Carolyn,Hernandez,carolyn.hernandez@customer.com,2012-05-20,Books & Stationery,17803,177.90,3,533.70,4,170.78,512.34,Out For Delivery
+135,420585,Nicole,Williamson,nicole.williamson@customer.com,2008-02-15,Books & Stationery,6097,591.30,3,1773.90,33,396.17,1188.51,Out For Delivery
+136,800714,Sheila,Butler,sheila.butler@customer.com,2018-01-14,Home Appliances,79204,274.42,1,274.42,22,214.05,214.05,Shipping Soon
+137,477793,Abigail,Wilson,abigail.wilson@customer.com,2004-12-15,Clothing & Appeal,54248,161.68,4,646.72,22,126.11,504.44,Shipping Soon
+138,19801,Shawn,Gibson,shawn.gibson@customer.com,2005-10-30,Books & Stationery,45773,692.56,2,1385.12,18,567.9,1135.8,Delivered
+139,488274,Ashley,Rodriguez,ashley.rodriguez@customer.com,2019-11-08,Software & Games,61547,53.96,3,161.88,10,48.56,145.68,Shipping Soon
+140,136215,Phillip,Sullivan,phillip.sullivan@customer.com,2007-04-11,Health & Beauty,27795,546.89,3,1640.67,32,371.89,1115.67,Delivered
+141,147664,Courtney,Wheeler,courtney.wheeler@customer.com,2023-08-19,Home Appliances,31685,387.23,6,2323.38,33,259.44,1556.64,Delivered
+142,860429,Gregory,Shaffer,gregory.shaffer@customer.com,2001-02-28,Software & Games,79576,551.35,5,2756.75,21,435.57,2177.85,Shipped
+143,27518,David,Dean,david.dean@customer.com,2013-01-28,Software & Games,63006,687.55,9,6187.95,14,591.29,5321.61,Shipping Soon
+144,767097,Gary,Ray,gary.ray@customer.com,2007-09-26,Health & Beauty,64286,135.62,5,678.10,16,113.92,569.6,Shipped
+145,98182,Vanessa,Stokes,vanessa.stokes@customer.com,2006-12-12,Clothing & Appeal,45302,230.11,7,1610.77,19,186.39,1304.73,Out For Delivery
+146,662727,Joseph,Elliott,joseph.elliott@customer.com,2000-01-24,Books & Stationery,78214,87.04,5,435.20,14,74.85,374.25,Delivered
+147,565741,Jenna,Mccoy,jenna.mccoy@customer.com,2012-06-28,Toys & Games,13351,394.94,3,1184.82,31,272.51,817.53,Delivered
+148,531954,Amber,Jones,amber.jones@customer.com,2018-08-31,Clothing & Appeal,53756,118.08,7,826.56,22,92.1,644.7,Shipped
+149,338913,Lindsey,Hart,lindsey.hart@customer.com,2004-10-04,Toys & Games,66507,529.64,6,3177.84,21,418.42,2510.52,Shipped
